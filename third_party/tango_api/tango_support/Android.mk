@@ -1,1 +1,0 @@
-../tango-examples-c/tango_support/Android.mk
