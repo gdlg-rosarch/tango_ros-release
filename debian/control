@@ -1,0 +1,12 @@
+Source: ros-kinetic-tango-ros-messages
+Section: misc
+Priority: extra
+Maintainer: Ruben Smits <ruben@intermodalics.eu>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-message-generation, ros-kinetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-tango-ros-messages
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-message-runtime, ros-kinetic-std-msgs
+Description: This package contains messages/services used by tango ros lib
