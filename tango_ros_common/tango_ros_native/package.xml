@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>tango_ros_native</name>
-  <version>1.3.1</version>
+  <version>0.0.0</version>
   <description>This package contains a cpp lib for using ros with tango</description>
 
   <maintainer email="ruben@intermodalics.eu">Ruben Smits</maintainer>
