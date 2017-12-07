@@ -1,1 +1,0 @@
-../tango-examples-c/tango_3d_reconstruction/Android.mk
